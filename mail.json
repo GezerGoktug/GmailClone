@@ -1,0 +1,63 @@
+[
+    {
+      "sender": "John Doe",
+      "subject": "Toplantı Hakkında",
+      "content": "Merhaba, yarınki toplantı için hazır mısınız? Lütfen toplantı odasına zamanında gelmeyi unutmayın.",
+      "time": "10:00"
+    },
+    {
+      "sender": "Jane Smith",
+      "subject": "Proje Güncellemesi",
+      "content": "Merhaba ekibim, proje güncellemeleri için bir toplantı yapacağız. Katılımınızı bekliyorum.",
+      "time": "14:30"
+    },
+    {
+      "sender": "Michael Johnson",
+      "subject": "Rapor Teslimi",
+      "content": "Merhaba, raporunuzu ertelenmeyecek son tarih olan bu akşam saat 18:00'e kadar bekliyorum.",
+      "time": "16:45"
+    },
+    {
+      "sender": "Emily Brown",
+      "subject": "Yarınki Toplantı İptali",
+      "content": "Merhaba, yarınki toplantıyı iptal etmek zorundayım. Lütfen yeni bir tarih belirlemek için uygun olduğunuz saatleri belirtin.",
+      "time": "09:20"
+    },
+    {
+      "sender": "David Wilson",
+      "subject": "Önemli Güvenlik Güncellemesi",
+      "content": "Merhaba, sisteme önemli bir güvenlik güncellemesi yapılacak. Bu nedenle, sistem kullanılabilirliği kısa süreliğine etkilenebilir. Anlayışınız için teşekkür ederim.",
+      "time": "11:55"
+    },
+    {
+      "sender": "Sarah Martinez",
+      "subject": "Projede Değişiklikler",
+      "content": "Merhaba, projede bazı değişiklikler yapılması gerekiyor. Lütfen ekteki belgeyi inceleyerek görüşlerinizi bildirin.",
+      "time": "13:10"
+    },
+    {
+      "sender": "Kevin Clark",
+      "subject": "Yeni Ürün Lansmanı",
+      "content": "Merhaba, yeni ürünümüzün lansmanı için toplantı yapacağız. Tüm departmanların katılımı önemlidir.",
+      "time": "10:45"
+    },
+    {
+      "sender": "Lisa Taylor",
+      "subject": "İş Görüşmesi",
+      "content": "Merhaba, iş başvurunuz değerlendirildi ve iş görüşmesi için randevu almanız gerekiyor. Lütfen uygun saatleri belirtin.",
+      "time": "15:20"
+    },
+    {
+      "sender": "Robert White",
+      "subject": "Haftalık Rapor",
+      "content": "Merhaba, haftalık raporumuzu hazırladım. Ekli dosyadan inceleyebilirsiniz.",
+      "time": "17:30"
+    },
+    {
+      "sender": "Jessica Adams",
+      "subject": "Proje İlerlemesi",
+      "content": "Merhaba ekibim, projenin ilerlemesi hakkında bir güncelleme yapmak istiyorum. Herkesin bilgisine sunarım.",
+      "time": "12:15"
+    }
+  ]
+  
